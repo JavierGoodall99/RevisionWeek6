@@ -1,11 +1,20 @@
+body {
+    background-color: rgb(202, 235, 235);
+    text-align: center;
+}
+nav {
+    display: flex;
+    background-color: blanchedalmond;
+}
 li {
+    padding: 20px;
     list-style: none;
 }
 h1 {
     color: brown;
 }
 .p1 {
-    background-color: aquamarine;
+    background-color: rgb(255, 127, 202);
 }
 .p2 {
     background-color: blueviolet;
